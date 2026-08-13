@@ -1,0 +1,7 @@
+# Ignore large data directories
+real_data/
+mock_data/
+
+# Ignore compiled python files
+__pycache__/
+*.pyc
